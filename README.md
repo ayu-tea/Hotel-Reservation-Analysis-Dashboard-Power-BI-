@@ -43,13 +43,6 @@ This project features an interactive Power BI dashboard built to analyze hotel r
 - Meal Plan Impact on Cancellations
 - Segment Preferences for Meal Plans
 
-## Key Insights
-
-- Online bookings are most common, but also have higher cancellation rates.
-- Meal Plan 1 is the dominant choice across all segments.
-- Repeat guest rate is low — highlighting an opportunity for loyalty programs.
-- Parking is required in a significant number of bookings.
-- Booking trends reveal seasonal peaks in mid-year months.
 
 ## Tools & Technologies
 
@@ -60,17 +53,7 @@ This project features an interactive Power BI dashboard built to analyze hotel r
 ## Files Included
 
 - `Hotel Reservation Analysis.csv` – Cleaned dataset used for building the dashboard
-- `Hotel.pbix` – Power BI report file
-- `README.md` – Project documentation
+- `Hotel.pbix` – Power BI file
+- `README.md` – Project summary
 
-## Getting Started
-
-1. Clone or download the repository.
-2. Open the `Hotel.pbix` file in Power BI Desktop.
-3. Explore or customize the dashboard and insights.
-
----
-
-**Feel free to fork or contribute.**  
-This dashboard is ideal for analytics learning, portfolio building, or exploring real-world use cases in hospitality data!
 
