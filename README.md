@@ -52,7 +52,6 @@ This project features an interactive Power BI dashboard built to analyze hotel r
 
 ## Files Included
 
-- `Hotel Reservation Analysis.csv` – Cleaned dataset used for building the dashboard
 - `Hotel.pbix` – Power BI file
 - `README.md` – Project summary
 
